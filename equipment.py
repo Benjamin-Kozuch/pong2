@@ -65,16 +65,5 @@ class Ball(object):
         if player_1_lost or player_2_lost: 
             return True
 
-        
-
-
-
-
-        '''
-        #Losing the game
-        if ball_x_position < 30: done = True
-        if ball_x_position > p2_x_position+10: done = True
-        '''
-        
 
                                   
